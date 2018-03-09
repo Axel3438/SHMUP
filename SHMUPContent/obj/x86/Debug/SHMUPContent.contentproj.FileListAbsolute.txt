@@ -1,0 +1,3 @@
+C:\Users\BanditoWalrus\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUPContent\obj\x86\Debug\SHMUPContent.contentprojResolveAssemblyReference.cache
+C:\Users\craze\Downloads\New folder\SHMUP\SHMUPContent\obj\x86\Debug\SHMUPContent.contentprojResolveAssemblyReference.cache
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUPContent\obj\x86\Debug\SHMUPContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\craze\Downloads\New folder\SHMUP\SHMUP\bin\x86\Debug\Content\Smile!!.xnb
+C:\Users\craze\Downloads\New folder\SHMUP\SHMUP\bin\x86\Debug\Content\TestFont.xnb
+C:\Users\craze\Downloads\New folder\SHMUP\SHMUP\bin\x86\Debug\SHMUP.exe
+C:\Users\craze\Downloads\New folder\SHMUP\SHMUP\bin\x86\Debug\SHMUP.pdb
+C:\Users\craze\Downloads\New folder\SHMUP\SHMUP\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\craze\Downloads\New folder\SHMUP\SHMUP\obj\x86\Debug\SHMUP.exe
+C:\Users\craze\Downloads\New folder\SHMUP\SHMUP\obj\x86\Debug\SHMUP.pdb
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUP\bin\x86\Debug\Content\Smile!!.xnb
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUP\bin\x86\Debug\Content\TestFont.xnb
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUP\bin\x86\Debug\SHMUP.exe
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUP\bin\x86\Debug\SHMUP.pdb
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUP\obj\x86\Debug\SHMUP.csprojResolveAssemblyReference.cache
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUP\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUP\obj\x86\Debug\SHMUP.exe
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUP\obj\x86\Debug\SHMUP.pdb
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUP\bin\x86\Debug\Content\Boom.xnb
+C:\Users\craze\Documents\Visual Studio 2010\Projects\SHMUP\SHMUP\SHMUP\bin\x86\Debug\Content\Universe.xnb
